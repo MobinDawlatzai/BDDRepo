@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 21.016 s <<< FAILURE! - in runner.TestRunner
+Then User should see message  'Your Account Has Been Created!'(Scenario: Register Account for new User)  Time elapsed: 0.027 s  <<< ERROR!
+java.lang.NullPointerException
+
+Scenario: Register Account for new User  Time elapsed: 0.027 s  <<< ERROR!
+java.lang.NullPointerException
+
